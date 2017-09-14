@@ -1,2 +1,2 @@
 # nodejs-dev
-Node JS Dev
+This is a practice project for NodeJS Development
